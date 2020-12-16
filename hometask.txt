@@ -1,2 +1,20 @@
 В нашей ветке - Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 В ветке demo - Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+
+11 коммитов на момент написания
+
+------
+commit - 1
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+
+fix readme
+dots
+README added
+boots
+heat added
+init
+------
